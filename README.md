@@ -36,6 +36,6 @@
 ## Lưu ý
 
 * Cần có `API key` để sử dụng AI dịch, nếu cành nhiều API key dịch càng nhanh, tốt nhận lấy một `API key` trong một tài khoản Google nếu dịch phụ đề dài và hạn chế lỗi **429 & 503**
-* Đối với lấy `API key` có thể truy cập **Google AI Studio** hoặc https://aistudio.google.com/api-keys để lấy key
+* Đối với lấy `API key` có thể truy cập [Google AI Studio](https://aistudio.google.com/apikey)
 * File SRT phải đúng định dạng chuẩn
 * Đối với các model: `gemini-pro-latest, gemini-3.1-pro-preview, gemini-2.5-pro` cần phải trả phí cho Google AI không phải cho phần mềm
