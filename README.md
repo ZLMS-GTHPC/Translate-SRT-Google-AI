@@ -1,4 +1,4 @@
-# **Translate-SRT Google-Gemini-AI**
+# **Translate-SRT Google-AI**
 
 ## Giới thiệu
 
